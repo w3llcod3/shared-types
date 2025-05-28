@@ -1,0 +1,19 @@
+{
+  "name": "shared-types",
+  "version": "1.0.0",
+  "description": "\"# shared-types\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3llcod3/shared-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w3llcod3/shared-types/issues"
+  },
+  "homepage": "https://github.com/w3llcod3/shared-types#readme"
+}
