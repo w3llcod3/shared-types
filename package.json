@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/w3llcod3/shared-types#readme",
   "publishConfig": {
-  "@w3llcod3@github.com:registry": "https://npm.pkg.github.com"
-}
+    "registry": "https://npm.pkg.github.com/@w3llcod3"
+  }
 }
