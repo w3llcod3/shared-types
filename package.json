@@ -1,6 +1,6 @@
 {
   "name": "@w3llcod3/shared-types",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "\"# shared-types\"",
   "main": "index.js",
   "scripts": {
