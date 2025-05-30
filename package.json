@@ -1,5 +1,5 @@
 {
-  "name": "shared-types",
+  "name": "@w3llcod3/shared-types",
   "version": "1.0.2",
   "description": "\"# shared-types\"",
   "main": "index.js",
