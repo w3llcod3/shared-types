@@ -1,9 +1,10 @@
 {
-  "name": "shared-types",
+  "name": "@w3llcod3/shared-types",
   "version": "1.0.0",
   "description": "\"# shared-types\"",
   "main": "index.js",
   "scripts": {
+    "release": "standard-version && git push --follow-tags && npm publish",
     "test": "exit 0"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/w3llcod3/shared-types#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@w3llcod3"
+  },
+  "dependencies": {
+    "standard-version": "^9.5.0"
   }
 }
