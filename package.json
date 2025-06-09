@@ -1,6 +1,6 @@
 {
   "name": "@w3llcod3/shared-types",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "\"# shared-types\"",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "dependencies": {
+  "devDependencies": {
     "standard-version": "^9.5.0"
   }
 }
