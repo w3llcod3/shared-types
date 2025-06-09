@@ -1,6 +1,6 @@
 {
   "name": "@w3llcod3/shared-types",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "\"# shared-types\"",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   },
   "devDependencies": {
     "standard-version": "^9.5.0"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
   }
 }
