@@ -1,8 +1,11 @@
 {
   "name": "@w3llcod3/shared-types",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "\"# shared-types\"",
   "main": "index.js",
+  "exports": {
+    "./types": "./src/shared-types.ts"
+  },
   "scripts": {
     "release": "standard-version && git push --follow-tags && npm publish",
     "test": "exit 0"
